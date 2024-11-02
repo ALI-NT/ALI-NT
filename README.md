@@ -1,6 +1,17 @@
-# 💫 About Me:
-🔭 I’m currently working on Some Little Project<br>🌱 I’m currently learning JavaScript &PHP<br>💬 Ask me about you!<br>⚡ Fun fact " "
+<h1 align="center">Hi 👋, I'm ALI</h1>
 
+<img align="right" alt="Coding" width="500" src="./giphy.webp">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ALI-NT&label=Profile%20views&color=0e75b6&style=flat" alt="ALI-NT" > </p>
+
+- 🔭 I’m currently working on **Some Little Project**
+
+- 🌱 I’m currently learning **Back-End & Front-End**
+
+- 💬 Ask me about **! nothing**
+
+- 📫 How to reach me **noobmater69.tnt@gmail.com**
+
+- ⚡ Fun fact **TNT**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ali.nt__) 
@@ -14,5 +25,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ALI-NT&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
