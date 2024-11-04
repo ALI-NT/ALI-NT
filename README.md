@@ -15,7 +15,7 @@
 
 <h3 align="left">🌐 Socials:</h3>
 <p align="left">
-<a href="https://instagram.com/pashaz7b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pasha7zb" height="30" width="40" /></a>
+<a href="https://instagram.com/ali.nt__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ali.nt__" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:
