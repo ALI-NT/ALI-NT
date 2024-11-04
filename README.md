@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ALI</h1>
 
-<img align="right" alt="Coding" width="500" src="./giphy.webp">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ALI-NT&label=Profile%20views&color=0e75b6&style=flat" alt="ALI-NT" > </p>
+<img align="right" alt="Coding" width="500px" height="400px" src="./giphy.webp">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ALI-NT&label=Profile%20views&color=0e75b6&style=flat" alt="ALI-NT" ></p>
 
 - 🔭 I’m currently working on **Some Little Project**
 
@@ -25,6 +25,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ALI-NT&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
----
