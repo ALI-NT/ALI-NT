@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm ALI</h1>
 
-<img align="right" alt="Coding" width="400px" height="420px" src="./giphy.webp">
+<img align="right" alt="Coding" width="400px" height="410px" src="./giphy.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ALI-NT&label=Profile%20views&color=0e75b6&style=flat" alt="ALI-NT" ></p>
 
 - 🔭 I’m currently working on **Some Little Project**
