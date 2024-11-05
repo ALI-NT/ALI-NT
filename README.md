@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm ALI</h1>
 
-<img align="right" alt="Coding" width="350px" height="350px" src="./giphy.webp">
+<img align="right" alt="Coding" width="370px" height="400px" src="./giphy.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ALI-NT&label=Profile%20views&color=0e75b6&style=flat" alt="ALI-NT" ></p>
 
 - 🔭 I’m currently working on **Some Little Project**
@@ -14,16 +14,26 @@
 - ⚡ Fun fact **TNT**
 
 <h3 align="left">🌐 Socials:</h3>
-<p align="left">
-<a href="https://instagram.com/ali.nt__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ali.nt__" height="30" width="40" /></a>
-</p>
+<a href="https://instagram.com/ali.nt__" target="blank" align="left">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ali.nt__" height="30" width="40" />
+</a>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ALI-NT&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ALI-NT&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ALI-NT&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### 💻 Tech Stack:
+<div display="flex">
+  <img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" width="40" height="40"/>
+<div/>
 
----
-[![](https://visitcount.itsvg.in/api?id=ALI-NT&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### :fire: My Stats:
+<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALI-NT&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ALI-NT&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ALI-NT&theme=dark&hide_border=false">
+  
