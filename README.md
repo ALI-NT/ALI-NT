@@ -33,7 +33,7 @@
 
 
 ### :fire: My Stats:
-<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALI-NT&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ALI-NT&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
+<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALI-NT&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"> &nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=ALI-NT&theme=dark&hide_border=false&include_all_commits=true&count_private=true"> &nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALI-NT&theme=dark&hide_border=false">
   
