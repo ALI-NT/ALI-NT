@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Back-End & Front-End**
 
-- 💬 Ask me about **! nothing**
+- 💬 Ask me about **!nothing**
 
-- 📫 How to reach me **noobmater69.tnt@gmail.com**
+- 📫 How to reach me **noobmaster69.tnt@gmail.com**
 
 - ⚡ Fun fact **TNT**
 
